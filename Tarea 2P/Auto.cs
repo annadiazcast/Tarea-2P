@@ -16,6 +16,7 @@ namespace Tarea_2P
             NoPuertas = noPuertas;
             Color = color;
         }
+        //...
         public Auto() { }
 
         public string Marca { get; set; }
